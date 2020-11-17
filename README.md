@@ -19,7 +19,7 @@ This project contains the full documentation and start to end process of modifyi
 </ul>
 
 ## Setup
-This is the hardware setup of the Raspberry Pi RC car within the diagram
+This is the hardware setup of the Raspberry Pi RC car within the diagram below. If unable to see it for any reason you can <a href="https://github.com/elianalopez/RaspiCar-Project/blob/main/Images/diagram.png?raw=true?raw=true"> view the diagram here! </a>
 ![Diagram](Images/diagram.png)
 
 <!--
