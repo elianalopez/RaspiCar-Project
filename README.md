@@ -17,15 +17,18 @@ This project contains the full documentation and start to end process of modifyi
 </ul>
 
 ## Setup
-![Diagram](Images/Diagram.PNG)
+This is the hardware setup of the Raspberry Pi RC car within the diagram below. If unable to see it for any reason you can view the diagram here!
+![Diagram](Images/diagram.png)
 
-* <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md"> Searching for IP address in Raspberry Pi </a>
-* 
 ## How to Run Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
 <br>
 For SSH network I use VNC viewer and put the IP address of the Raspberry Pi in order to conect to with with my laptop
-  
+
+
+* <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md"> Searching for IP address in Raspberry Pi </a>
+* <a href="https://www.realvnc.com/en/connect/download/viewer/"> Download VNC Viewer </a>
+
 #### Raspberry Pi Terminal input
 Raspberry Pi Terminal input:
 <br>
