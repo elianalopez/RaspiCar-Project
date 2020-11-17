@@ -22,6 +22,15 @@ This project contains the full documentation and start to end process of modifyi
 This is the hardware setup of the Raspberry Pi RC car within the diagram below. If unable to see it for any reason you can  <a href="https://github.com/elianalopez/RaspiCar-Project/blob/main/Images/diagram.png?raw=true">view the diagram here!</a>
 ![Diagram](Images/diagram.png)
 
+## The Code
+Overall the layout of the code within your Raspberry Pi should look like this:
+![Directory](Images/directory.png)
+
+### Creating the live streaming server
+The files camera_pi.py and appCam.py are created by Miguel Grinberg. 
+* camera_pi.py is the direcotry camWebServer
+* camApp.py is the webserver application
+
 ## How to Run Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
 <br>
