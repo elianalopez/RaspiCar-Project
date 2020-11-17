@@ -24,7 +24,7 @@ This is the hardware setup of the Raspberry Pi RC car within the diagram below. 
 
 ## The Code
 Overall the layout of the code within your Raspberry Pi should look like this:
-![Directory](Images/directory.png)
+![Directory](Images/directory.PNG)
 
 ### Creating the live streaming server
 The files camera_pi.py and appCam.py are created by Miguel Grinberg. 
