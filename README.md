@@ -1,40 +1,30 @@
 <br />
  <p align="center">
-     <img src="https://github.com/elianalopez/RaspiCar-Project/blob/main/Images/carproject.png?raw=true" width="150" height="120">
+     <img src="https://github.com/elianalopez/RaspiCar-Project/blob/main/Images/carproject.png?raw=true" width="120" height="120">
     <h1 align="center">The RaspiCar Project</h1>
     <p align="center" class="h6">By Eliana Lopez</p>
     <p align="center"></p>
  </p>
- 
 This project contains the full documentation and start to end process of modifying and RC car with a Raspberry Pi Model B+.
-
 ## Tools used
 <ul>
 <li>HyperChargers Remote Controlled Car</li>
 <li>Raspberry Pi 3 Model B+</li>
 <li>Raspberry Pi Camera V2.1</li>
 <li>L298N Motor Drive Controller Board Module</li>
-<li>Mophie USB Power Bank, 10500mAh</li>
+<li>Mophie USB Power Bank, 10,500mAh</li>
 <li>Jumper Wires</li> 
 </ul>
 
 ## Setup
-This is the hardware setup of the Raspberry Pi RC car within the diagram below. If unable to see it for any reason you can <a href="https://github.com/elianalopez/RaspiCar-Project/blob/main/Images/diagram.png?raw=true?raw=true"> view the diagram here! </a>
-![Diagram](Images/diagram.png)
+![Diagram](Images/Diagram.PNG)
 
-<!--
-<a href="https://github.com/elianalopez/Raspberry-Pi-RC-Car-Project/blob/master/diagram.png?raw=true">Raspberry Pi RC Car Diagram </a>
--->
-
+* <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md"> Searching for IP address in Raspberry Pi </a>
+* 
 ## How to Run Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
 <br>
-For SSH network I use VNC viewer and put the IP address of the Raspberry Pi in order to conect to with with my laptop.
-
-**Here are some resources for this process if needed:**
-* <a href="https://github.com/elianalopez/Raspberry-Pi-RC-Car-Project/blob/master/diagram.png?raw=true">Raspberry Pi RC Car Diagram </a>
-* <a href="https://www.realvnc.com/en/connect/download/viewer/">Download VNC viewer </a>
-
+For SSH network I use VNC viewer and put the IP address of the Raspberry Pi in order to conect to with with my laptop
   
 #### Raspberry Pi Terminal input
 Raspberry Pi Terminal input:
