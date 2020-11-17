@@ -26,7 +26,7 @@ Turn on the Raspberry Pi via normally or SSH network (for a truly wireless exper
 For SSH network I use VNC viewer and put the IP address of the Raspberry Pi in order to conect to with with my laptop. 
 
 I have left these resources down below if needed:
-* <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md"> Searching for IP address in Raspberry Pi </a>
+* <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md">How to find the Raspberry Pi IP address</a>
 * <a href="https://www.realvnc.com/en/connect/download/viewer/"> Download VNC Viewer </a>
 
 #### Raspberry Pi Terminal input
