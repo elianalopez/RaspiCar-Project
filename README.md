@@ -5,7 +5,7 @@
     <p align="center" class="h6">By Eliana Lopez</p>
     <p align="center"></p>
  </p>
-
+This project contains the full documentation and start to end process of modifying and RC car with a Raspberry Pi Model B+.
 ## Tools used
 <ul>
 <li>HyperChargers Remote Controlled Car</li>
