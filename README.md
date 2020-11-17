@@ -19,6 +19,7 @@ This project contains the full documentation and start to end process of modifyi
 </ul>
 
 ## Setup
+This is the hardware setup of the Raspberry Pi RC car within the diagram
 ![Diagram](Images/diagram.png)
 
 <!--
