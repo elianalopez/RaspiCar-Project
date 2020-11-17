@@ -96,5 +96,5 @@ Raspberry Pi Terminal input:
 
 This is the end result of the modified car
 
-![Directory](Images/car.PNG)
+![Car-Running](Images/car.PNG)
 
