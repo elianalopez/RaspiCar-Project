@@ -21,7 +21,9 @@ This project contains the full documentation and start to end process of modifyi
 ## Setup
 ![Diagram](Images/diagram.png)
 
+<!--
 <a href="https://github.com/elianalopez/Raspberry-Pi-RC-Car-Project/blob/master/diagram.png?raw=true">Raspberry Pi RC Car Diagram </a>
+-->
 
 ## How to Run Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
