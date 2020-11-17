@@ -23,6 +23,11 @@ This is the hardware setup of the Raspberry Pi RC car within the diagram below. 
 
 ![Diagram](Images/diagram.png)
 
+#### After the Setup
+Once you are finished setting up, I have added a folder named **TESTING** that has a Python file called *moterControl.py* this file would run and test to see if your motors are connected correctly or referenced to the Raspberry Pi. 
+
+* <a href="https://projects.raspberrypi.org/en/projects/physical-computing/1">This website contains more information on Raspberry Pi GPIO pins</a>
+
 ## The Code
 Overall the layout of the code within your Raspberry Pi should look like this:
 
@@ -37,7 +42,6 @@ The files camera_pi.py and appCam.py are created by Miguel Grinberg.
 
 web.py is the file that utilizes the webserver and integers the Raspberry Pi GPIOs that are being used, along with our camera.
 
-
 This is a simple example of a "Hello, World!" program in Flask
 
 ```python
@@ -51,6 +55,9 @@ app = Flask(__name__)
 if __name__ == "__main__":
     app.run()
 ```
+
+### Static and Templates 
+The folders static and templates are the HTML and CSS of our web application. It just helps design and format our Web User Interface when controlling the modified RC Car in Raspberry Pi
 
 ## How to Run Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
