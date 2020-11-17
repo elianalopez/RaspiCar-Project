@@ -23,8 +23,6 @@ This project contains the full documentation and start to end process of modifyi
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-                                ```  `
-
 ## Tools used
 <ul>
 <li>HyperChargers Remote Controlled Car</li>
