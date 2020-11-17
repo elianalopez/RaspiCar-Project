@@ -20,10 +20,12 @@ This project contains the full documentation and start to end process of modifyi
 
 ## Setup
 This is the hardware setup of the Raspberry Pi RC car within the diagram below. If unable to see it for any reason you can  <a href="https://github.com/elianalopez/RaspiCar-Project/blob/main/Images/diagram.png?raw=true">view the diagram here!</a>
+
 ![Diagram](Images/diagram.png)
 
 ## The Code
 Overall the layout of the code within your Raspberry Pi should look like this:
+
 ![Directory](Images/directory.PNG)
 
 ### Creating the live streaming server
