@@ -15,7 +15,8 @@ This project contains the full documentation and start to end process of modifyi
 <li>Raspberry Pi Camera V2.1</li>
 <li>L298N Motor Drive Controller Board Module</li>
 <li>Mophie USB Power Bank, 10,500mAh</li>
-<li>Jumper Wires</li> 
+<li> Female/Female Jumper Wires</li> 
+<li> Male/Female Jumper Wires</li>
 </ul>
 
 ## Setup
