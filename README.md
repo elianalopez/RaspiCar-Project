@@ -1,4 +1,3 @@
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
 <br />
  <p align="center">
      <img src="https://github.com/elianalopez/RaspiCar-Project/blob/main/Images/carproject.png?raw=true" width="160" height="120">
