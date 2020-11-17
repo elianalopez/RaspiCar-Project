@@ -93,6 +93,8 @@ Raspberry Pi Terminal input:
 
   
 ## Car in Action
-To view the car in action click <a href="https://github.com/elianalopez/Raspberry-Pi-RC-Car-Project/blob/master/car.mov?raw=true">here</a>
-<br>
-This link will download the video of my car running
+
+This is the end result of the modified car
+
+![Directory](Images/car.PNG)
+
