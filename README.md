@@ -33,6 +33,25 @@ The files camera_pi.py and appCam.py are created by Miguel Grinberg.
 * camera_pi.py is the direcotry camWebServer
 * camApp.py is the webserver application
 
+### Creating a flask micro web application framework
+
+web.py is the file that utilizes the webserver and integers the Raspberry Pi GPIOs that are being used, along with our camera.
+
+
+This is a simple example of a "Hello, World!" program in Flask
+
+```python
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+    def hello():
+        return "Hello, World!"
+
+if __name__ == "__main__":
+    app.run()
+```
+
 ## How to Run Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
 <br>
