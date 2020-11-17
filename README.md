@@ -42,7 +42,7 @@ This is the hardware setup of the Raspberry Pi RC car within the diagram below. 
 ## After the Setup
 Once you are finished setting up, I have added a folder named **TESTING** that has a Python file called *motorControl.py*. This file is created to see if your motors are connected correctly or referenced to the Raspberry Pi. 
 
-If you need any more informatio regarding Raspberry Pi GPIO pins this <a href="https://projects.raspberrypi.org/en/projects/physical-computing/1">website contains more information.</a>
+If you need any more information regarding Raspberry Pi GPIO pins this <a href="https://projects.raspberrypi.org/en/projects/physical-computing/1">website contains more information.</a>
 
 ## The Code
 Overall the layout of the code within your Raspberry Pi should look like this:
@@ -94,7 +94,7 @@ Raspberry Pi Terminal input:
   
 ## Car in Action
 
-This is the end result of the modified car
+This is the end result of the modified car.
 
 ![Car-Running](Images/car.gif)
 
