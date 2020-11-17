@@ -17,6 +17,8 @@ This project contains the full documentation and start to end process of modifyi
 </ul>
 
 ## Setup
+![Diagram](Images/Diagram.PNG)
+
 <a href="https://github.com/elianalopez/Raspberry-Pi-RC-Car-Project/blob/master/diagram.png?raw=true">Raspberry Pi RC Car Diagram </a>
 
 ## How to Run Program
