@@ -8,6 +8,23 @@
  
 This project contains the full documentation and start to end process of modifying and RC car with a Raspberry Pi Model B+.
 
+<!-- TABLE OF CONTENTS -->
+## Table of Contents  
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>click to expand</summary>
+ 
+- [Tools Used](#Tools-Used)  
+- [Setup](#Setup)  
+- [After the setup](#After-the-setup)  
+- [The Code](#The-Code)  
+- [How to Run the Program](#How-to-Run-the-Program)  
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+                                ```  `
+
 ## Tools used
 <ul>
 <li>HyperChargers Remote Controlled Car</li>
@@ -60,7 +77,7 @@ if __name__ == "__main__":
 ### Static and Templates 
 The folders static and templates are the HTML and CSS of our web application. It just helps design and format our Web User Interface when controlling the modified RC Car in Raspberry Pi
 
-## How to Run Program
+## How to Run the Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
 <br>
 For SSH network I use VNC viewer and put the IP address of the Raspberry Pi in order to conect to with with my laptop. 
