@@ -98,7 +98,7 @@ This is the end result of the modified car
 
 ![Car-Running](Images/car.gif)
 
-#### What I learned
+## What I learned
 Here are some short thoughts I have learned from this project:
 * The integeration of various programming languages
 * Learned more about the technicalities of the Raspberry Pi
