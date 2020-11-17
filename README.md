@@ -29,7 +29,12 @@ This is the hardware setup of the Raspberry Pi RC car within the diagram below. 
 ## How to Run Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
 <br>
-For SSH network I use VNC viewer and put the IP address of the Raspberry Pi in order to conect to with with my laptop
+For SSH network I use VNC viewer and put the IP address of the Raspberry Pi in order to conect to with with my laptop.
+
+**Here are some resources for this process if needed:**
+* <a href="https://github.com/elianalopez/Raspberry-Pi-RC-Car-Project/blob/master/diagram.png?raw=true">Raspberry Pi RC Car Diagram </a>
+* <a href="https://www.realvnc.com/en/connect/download/viewer/">Download VNC viewer </a>
+
   
 #### Raspberry Pi Terminal input
 Raspberry Pi Terminal input:
