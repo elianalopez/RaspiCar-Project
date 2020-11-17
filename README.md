@@ -19,7 +19,7 @@ This project contains the full documentation and start to end process of modifyi
 - [After the setup](#After-the-setup)  
 - [The Code](#The-Code)  
 - [How to Run the Program](#How-to-Run-the-Program)  
-
+- [What I learned](#what-I-leanred)  
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
@@ -98,3 +98,8 @@ This is the end result of the modified car
 
 ![Car-Running](Images/car.gif)
 
+#### What I learned
+Here are some short thoughts I have learned from this project:
+* The integeration of various programming languages
+* Learned more about the technicalities of the Raspberry Pi
+* Learned more about pratical design of the car itself such as adding velcro straps to contain the out-covering and a bumper to protect the Raspberry Pi
