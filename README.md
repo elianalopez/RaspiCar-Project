@@ -1,6 +1,6 @@
 <br />
  <p align="center">
-    ![alt text](file://Desktop//carproject.png)    
+     <img src="https://github.com/elianalopez/RaspiCar-Project/blob/main/Images/carproject.png?raw=true" width="50" height="100">
     <h1 align="center">The RaspiCar Project</h1>
     <p align="center" class="h6">By Eliana Lopez</p>
     <p align="center"></p>
