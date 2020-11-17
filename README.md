@@ -19,7 +19,7 @@ This project contains the full documentation and start to end process of modifyi
 - [After the setup](#After-the-setup)  
 - [The Code](#The-Code)  
 - [How to Run the Program](#How-to-Run-the-Program)  
-- [What I learned](#what-I-leanred)  
+- [What I learned](#what-I-learned)  
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
