@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" href='../static/style.css'/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<title>Motor Controller</title>
+</head>
+    <body>
+        <center><h1><span style="color:black">Live Feed Motor Controller </span> </h1> </center>
+        
+        <hr>
+        <center><img src="{{ url_for('video_feed') }}" width="60%"> </center> <!-- Live Video Feed -->
+        <hr>
+
+	<center><p>Click the text to control the vechicle</p></center>
+        	<center>
+		<div style=" height:220px; width:800px; float:center;">
+		<a href="#" id="left" style="font-size:25px;text-decoration:none;">Left</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		<p2>|</p2>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+	        <a href="#" id="right" style="font-size:25px; text-decoration:none;">Right</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		<p2>|</p2>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+	        <a href="#" id="up" style="font-size:25px;text-decoration:none;">Forward</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		<p2>|</p2>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+	        <a href="#" id="down" style="font-size:25px;text-decoration:none;">Backward</a>
+		<br>
+		<a href="#" id="noturn" style="font-size:25px; text-decoration:none;">No Turn</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		<p2>|</p2>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="#" id="stop" style="font-size:25px;text-decoration:none;">Stop</a>
+		</center>
+        	</div>
+	</center>
+
+	<!-- JQuery -->
+        <script>
+	$( document ).ready(function(){
+		$("#down").on("mousedown", function() {
+			$.get('/down');
+		});
+		$("#up").on("mousedown", function() {
+			$.get('/up');
+		});
+		$("#left").on("mousedown", function() {
+			$.get('/left');
+		});
+
+		$("#right").on("mousedown", function() {
+			$.get('/right');
+		});
+
+		$("#noturn").on("mousedown", function() {
+			$.get('/no_turn');
+			
+		});
+		$("#stop").on("mousedown", function() {
+			$.get('/stop');
+		}).on('mouseup', function() {
+			$.get('/stop');
+			
+		});
+	});
+        </script>
+    </body>
+</html>
