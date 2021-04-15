@@ -106,7 +106,7 @@ Here are some short thoughts I have learned from this project:
 
 ## Project Images
 
-<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/before.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/before.jpg"  width="300" height="300"></p>
 
 <p align="center">How it started</p>
 
