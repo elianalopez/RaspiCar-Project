@@ -105,3 +105,21 @@ Here are some short thoughts I have learned from this project:
 * Learned more about pratical design of the car itself such as adding velcro straps to contain the out-covering and a bumper to protect the Raspberry Pi
 
 ## Project Images
+
+<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/before.jpg"></p>
+
+<p align="center">How it started</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/after.jpg"></p>
+
+<p align="center">How it's going</p>
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/screen1.png"></p>
+
+<p align="center">Web User Interface Part I</p>
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/screen2.png"></p>
+
+<p align="center">Web User Interface Part II - final product</p>
