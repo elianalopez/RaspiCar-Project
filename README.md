@@ -75,6 +75,9 @@ if __name__ == "__main__":
 ### Static and Templates 
 The folders static and templates are the HTML and CSS of our web application. It just helps design and format our Web User Interface when controlling the modified RC Car in Raspberry Pi
 
+![UIscreen](Images/screen2.png)
+
+
 ## How to Run the Program
 Turn on the Raspberry Pi via normally or SSH network (for a truly wireless experience)
 <br>
@@ -103,3 +106,5 @@ Here are some short thoughts I have learned from this project:
 * The integeration of various programming languages
 * Learned more about the technicalities of the Raspberry Pi
 * Learned more about pratical design of the car itself such as adding velcro straps to contain the out-covering and a bumper to protect the Raspberry Pi
+
+## Project Images
