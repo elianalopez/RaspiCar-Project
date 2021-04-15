@@ -106,11 +106,11 @@ Here are some short thoughts I have learned from this project:
 
 ## Project Images
 
-<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/before.jpg"  width="300" height="300"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/before.jpg" width="400" height="450"></p>
 
 <p align="center">How it started</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/after.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/RaspiCar-Project/main/Images/after.jpg" width="400" height="450"></p>
 
 <p align="center">How it's going</p>
 
